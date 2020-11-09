@@ -7,6 +7,7 @@ import Portfolio from './components/Portfolio';
 import Projects from './components/Projects';
 import Footer from './components/Footer';
 import ContactMe from './components/ContactMe';
+import resumeData from './components/resumeData';
 
 class App extends Component {
   render() {
