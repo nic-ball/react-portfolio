@@ -3,7 +3,7 @@ let resumeData = {
   'imagebaseurl': 'https://avatars0.githubusercontent.com/u/22473672?s=460&u=2b077a4b47b6c29d2abd1e2b32ab2e5b1a1729a1&v=4',
   'name': 'Nic',
   'role': 'Full Stack Developer',
-  'linkedInId': 'nic-ball',
+  'linkedInId': ' nic-ball',
   'roleDescription': 'I enjoy learning how to create scalable applications, using the vast amount of different tools available to a modern day software developer. In my spare time I like to play guitar, cook and cycle.',
 
   'socialLinks': [
