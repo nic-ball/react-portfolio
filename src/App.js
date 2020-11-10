@@ -12,15 +12,15 @@ import resumeData from './components/resumeData';
 class App extends Component {
   render() {
   return (
-  <div className = 'App'>
+  <div className="App">
 
-  <Header resumeData={resumeData}/>
+  {/* <Header resumeData={resumeData}/> */}
   <About resumeData={resumeData}/>
-  <Cv resumeData={resumeData}/>
+  {/* <Cv resumeData={resumeData}/>
   <Portfolio resumeData={resumeData}/>
   <Projects resumeData={resumeData}/>
   <ContactMe resumeData={resumeData}/>
-  <Footer resumeData={resumeData}/>
+  <Footer resumeData={resumeData}/>*/}
   </div>
   );
   }
